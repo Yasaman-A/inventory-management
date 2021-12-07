@@ -1,9 +1,13 @@
 # Compiled class file
 *.class
+bin/* 
 
 .classpath
 .project
 .settings/
+
+.DS_Store
+
 
 # Log file
 *.log
